@@ -6,7 +6,7 @@ Lista de tutoriais úteis para estudantes das disciplinas de pensamento computac
 
 ### Github
 
-1. [Como criar um repositório no GitHub](criacao-repositorio-github.md);
+1. [Como criar um repositório no GitHub](tutoriais/criacao-repositorio-github.md);
 
 ### P5.JS
 
